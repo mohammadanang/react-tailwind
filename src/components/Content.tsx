@@ -9,7 +9,7 @@ function Content() {
         <div className="center-content">
           <h2 className="text-2xl mb-2">Egg Crispy</h2>
           <p className="mb-2">Crispy, delicious, and nutritious.</p>
-          <span>$120</span>
+          <span>IDR 25.000</span>
         </div>
       </div>
 
@@ -18,7 +18,7 @@ function Content() {
         <div className="center-content">
           <h2 className="text-2xl mb-2">Egg Salad</h2>
           <p className="mb-2">Veggies, delicious, and nutritious.</p>
-          <span>$100</span>
+          <span>IDR 21.000</span>
         </div>
       </div>
     </>
